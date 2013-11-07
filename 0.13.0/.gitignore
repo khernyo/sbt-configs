@@ -1,6 +1,4 @@
 /boot
-/cache
-/plugins/target
 /plugins/project/target
+/plugins/target
 /staging
-/launchers
